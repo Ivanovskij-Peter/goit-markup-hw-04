@@ -170,7 +170,6 @@ a {
 }
 /* works */
 .works {
-  padding-bottom: 94px;
   display: flex;
   flex-wrap: wrap;
   text-align: center;
